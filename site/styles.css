@@ -1,0 +1,76 @@
+body{
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+#faixa1{
+    display: flex;
+    background-color: rgb(235, 81, 43);
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    gap: 300px;
+    
+}
+#title1{
+    color: white
+}
+#menu{
+    margin-top: 15px;
+    height: 550px;
+    gap: 30px;
+    align-items: center;
+    width: 190px;
+    display: flex;
+    flex-direction: column;
+    border-right: solid rgb(210 210 210);
+}
+.botoes{
+    width: 90px;
+    border: none;
+    background-color: white;
+}
+#base{
+    margin-top: 270px;
+    display: flex;
+    justify-content: center;
+}
+.botoes2{
+    background-color: white;
+    border: none;
+}
+#espaco{
+    margin-top: 5px;
+    border: solid rgb(210 210 210);
+    display: flex;
+    width: 95%;
+    height: 85%;
+    justify-content: center;
+    align-items:initial;
+    border-radius: 20px;
+}
+#checkout{
+    width: 95%;
+    border: solid rgb(210 210 210);
+    border-radius: 20px;
+}
+#all{
+    display: flex;
+
+}#conjesq{
+    width: 100%;
+    margin-left: 40px;
+}
+#links{
+    color: white;
+    border: none;
+}
+#nomedosite{
+    margin-left: 33%;
+}
+#link1{
+    margin-left: 10px;
+}
+#link2{
+    margin-left: 10px;
+}
